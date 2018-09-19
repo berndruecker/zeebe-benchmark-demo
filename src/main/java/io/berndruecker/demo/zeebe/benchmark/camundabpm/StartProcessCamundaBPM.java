@@ -1,4 +1,4 @@
-package io.zeebe.demo.camundabpm;
+package io.berndruecker.demo.zeebe.benchmark.camundabpm;
 
 import java.io.IOException;
 import java.net.URL;

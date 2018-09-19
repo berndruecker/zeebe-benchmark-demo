@@ -1,4 +1,4 @@
-package io.zeebe.demo.zeebe;
+package io.berndruecker.demo.zeebe.benchmark.zeebe;
 
 import java.util.Timer;
 import java.util.TimerTask;

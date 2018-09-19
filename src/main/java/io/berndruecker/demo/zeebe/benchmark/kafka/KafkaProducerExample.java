@@ -1,4 +1,4 @@
-package io.zeebe.demo.kafka;
+package io.berndruecker.demo.zeebe.benchmark.kafka;
 
 import java.util.Properties;
 import java.util.Timer;
